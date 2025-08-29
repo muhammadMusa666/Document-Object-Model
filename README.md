@@ -1,4 +1,4 @@
 # Document-Object-Model
-This is a DOM, and this is mean to help those learning javascript, Hope U Like It!
+This is a DOM, made to help those learning JavaScript, I Hope U Like It!
 
 # Made With Love By Musa!
